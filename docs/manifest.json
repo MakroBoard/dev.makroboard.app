@@ -29,11 +29,26 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "download.md",
+      "output": {
+        ".html": {
+          "relative_path": "download.html",
+          "hash": "ANCLrV5kNuAeKWjcz2PgGA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Conceptual",
       "source_relative_path": "index.md",
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "e5eaZrLsWjB8NEICzhMLpw=="
+          "hash": "0++nE7T1iqgx61nJFM4yQg=="
         }
       },
       "is_incremental": false,
@@ -45,7 +60,7 @@
       "output": {
         ".html": {
           "relative_path": "toc.html",
-          "hash": "GGT6qHCfWBQp6OlRHmxEgQ=="
+          "hash": "vrjETkPN7NxBtJsLjgF0Rg=="
         }
       },
       "is_incremental": false,
@@ -66,7 +81,7 @@
         "ConceptualDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 2,
+          "total_file_count": 3,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
