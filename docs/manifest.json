@@ -5,30 +5,6 @@
   "files": [
     {
       "type": "Conceptual",
-      "source_relative_path": "articles/intro.md",
-      "output": {
-        ".html": {
-          "relative_path": "articles/intro.html",
-          "hash": "Rns2beWfzBQGolTzOWzxfw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Toc",
-      "source_relative_path": "articles/toc.yml",
-      "output": {
-        ".html": {
-          "relative_path": "articles/toc.html",
-          "hash": "lFhRlsgsf8i+DnHZgWTDJQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
       "source_relative_path": "download.md",
       "output": {
         ".html": {
@@ -60,7 +36,31 @@
       "output": {
         ".html": {
           "relative_path": "toc.html",
-          "hash": "vrjETkPN7NxBtJsLjgF0Rg=="
+          "hash": "GDD5+8+yi/74tIXnNMTYKQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "user/quickstart.md",
+      "output": {
+        ".html": {
+          "relative_path": "user/quickstart.html",
+          "hash": "dMxJ+4Zk8DbkcwZccCSWhg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "user/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "user/toc.html",
+          "hash": "s2PcylzA+hNYIr5utyNO1Q=="
         }
       },
       "is_incremental": false,
